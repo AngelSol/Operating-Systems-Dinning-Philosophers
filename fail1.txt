@@ -1,0 +1,16 @@
+Philosopher 2: is done thinking and now ready to eat.
+Philosopher 2: taking left fork 2
+Philosopher 1: is done thinking and now ready to eat.
+Philosopher 1: taking left fork 1
+Philosopher 0: is done thinking and now ready to eat.
+Philosopher 0: taking left fork 0
+Philosopher 3: is done thinking and now ready to eat.
+Philosopher 3: taking left fork 3
+Philosopher 3: taking right fork 4
+Philosopher 3: EATING.
+Philosopher 3 is putting down left fork 3
+Philosopher 3 is putting down right fork 4
+Philosopher 3: is done thinking and now ready to eat.
+Philosopher 3: taking left fork 3
+Philosopher 4: is done thinking and now ready to eat.
+Philosopher 4: taking left fork 4
